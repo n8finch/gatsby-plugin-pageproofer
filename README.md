@@ -1,5 +1,8 @@
 # gatsby-plugin-pageproofer
 
+> [!WARNING]
+> This repo is not actively maintained. If you need an update, please file an issue and I'll take a look. Thank you!
+
 A simple plugin that adds `pageproofer.js` to every page on your Gatsby site for your team or clients to review.
 
 ## How to use
